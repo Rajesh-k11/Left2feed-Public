@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]  
+**Note on Source Code**
+This project is currently under active development and contains proprietary logic. The source code is held in a private repository. Access can be granted to recruiters upon request.
 
 **Turn Extra Meals into Extra Smiles** – A modern web application connecting food donors with NGOs and shelters to reduce food waste and fight hunger.
 
